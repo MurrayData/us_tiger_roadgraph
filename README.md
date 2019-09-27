@@ -16,7 +16,7 @@ conda install -c conda-forge pyshp
 
 ## US TIGER/LINE Documentation
 
-[Geographic Shapefile Concepts Overview](www2.census.gov/geo/pdfs/maps-data/data/tiger/tgrshp2017/TGRSHP2017_TechDoc_Ch3.pdf)
+[Geographic Shapefile Concepts Overview](https://www2.census.gov/geo/pdfs/maps-data/data/tiger/tgrshp2017/TGRSHP2017_TechDoc_Ch3.pdf)
 
 [MAF/TIGER Feature Class Code (MTFCC) Definitions](https://www2.census.gov/geo/pdfs/maps-data/data/tiger/tgrshp2009/TGRSHP09AF.pdf)
 
