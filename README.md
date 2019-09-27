@@ -27,7 +27,7 @@ I've added enumerated mtfcc (MAF/TIGER Feature Class Code) to the road graph edg
 Example to exclude primary roads (e.g. to build a walking graph):
 
 ```
-qdf = gdf.query("mtfcc!=1")
+qdf = gdf.query("mtfcc!=0")
 G = cugraph.Graph()
 G.add_edge_list(qdf["src"], qdf["dst"],qdf['dist'])
 # Call cugraph.sssp to get the road distance from origin
